@@ -1,0 +1,20 @@
+{
+  "name": "idubot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node index testing"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "colors": "^1.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "similarity": "^1.2.1"
+  },
+  "type": "module"
+}
